@@ -1,0 +1,26 @@
+#gtavie
+{
+  background-color: rgba(0,0,0,.87);
+}
+
+#gtavie th, #gtavie td
+{
+  border-bottom: 1px solid black;
+}
+
+#gtavie th:before {
+	content: "⇕ ";
+}
+
+#gtavie th.sorting-asc:before {
+	content: "⇑ ";
+}
+
+#gtavie th.sorting-desc:before {
+	content: "⇓ ";
+}
+
+#sectionVehicles
+{
+  min-height: auto !important;
+}
