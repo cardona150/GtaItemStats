@@ -1,6 +1,6 @@
 {
   "name": "GTA V Item Stats",
-  "version": "1",
+  "version": "2",
   "description": "View GTA V item stat numbers on the SocialClub website",
   "background": {
     "scripts": [ "scripts/background.js" ]
